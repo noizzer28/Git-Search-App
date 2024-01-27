@@ -16,6 +16,11 @@ export const ErrorSearch = styled.h3`
   bottom: -25px;
   left: 5px;
 `
+export const Error = styled.h3`
+  color: red;
+  font-size: 20px;
+  font-weight: 400;
+`
 export const MainButton = styled.button`
   width: 120px;
   height: 50px;

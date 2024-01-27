@@ -47,6 +47,7 @@ export const GlobalStyles = createGlobalStyle`
     font-family: "Roboto", sans-serif;
     color: #000000;
     background-color: #009EE4;
+
   }
   
   div,
@@ -96,4 +97,7 @@ export const Wrapper = styled.div`
   background-color: #ffffff;
   border-radius: 15px;
   padding: 50px;
+  height: 100%;
+
+
 `

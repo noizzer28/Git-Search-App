@@ -1,0 +1,22 @@
+.dropdown {
+    height: 50px;
+    width: 400px !important;
+    border-radius: 10px !important;
+    position: absolute !important;
+    right: 0 !important;
+    padding-left: 160px !important;
+    font-size: 16px !important;
+    line-height: 24px;
+
+}
+
+:root {
+    --pagination-color: #009ee4;
+    --pagination-hover-color: #0a58ca;
+    --pagination-font-size: 25px;
+    --pagination-margin-top: 60px;
+}
+.paginationWrapper{
+    width: 1000px;
+    margin: 0 auto;
+}
